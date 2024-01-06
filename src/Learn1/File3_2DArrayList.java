@@ -26,5 +26,6 @@ public class File3_2DArrayList {
         groceryList.add(drinksList);
 
         System.out.println(groceryList);
+
     }
 }
