@@ -1,4 +1,5 @@
 package POO_Exercises;
+import java.util.*;
 
 public class Main {
 
@@ -25,6 +26,16 @@ public class Main {
 //        Rectangle rectangle1 = new Rectangle(20, 30);
 //        System.out.println(rectangle1.getArea());
 //        System.out.println(rectangle1.getPerimeter());
+
+//        Circle circle1 = new Circle(5.20);
+//        System.out.println("Circumference: " + circle1.getCircumference());
+//        System.out.println("Area: " + circle1.getArea());
+//        Book book1 = new Book("Crime and Punishment",
+//                "Fyodor Dostoevsky",
+//                "XXXXXX");
+//        String[][] collection = {{book1.toString()}};
+//        Collection collection1 = new Collection(collection);
+//        System.out.println(Arrays.deepToString(collection1.getBooks()));
 
         
     }
